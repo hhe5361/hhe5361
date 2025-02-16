@@ -1,4 +1,9 @@
-## HI
+HI
+I'm Hyoeun Hwang
+
+- 🔭 I’m currently working on ICNS Lab
+- 🌱 I’m currently learning cse
+...
 
 <!--
 **hhe5361/hhe5361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
