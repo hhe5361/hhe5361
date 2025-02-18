@@ -1,8 +1,4 @@
 HI
-I'm Hyoeun Hwang
-
-- 🔭 I’m currently working on ICNS Lab
-- 🌱 I’m currently learning cse
 ...
 
 <!--
