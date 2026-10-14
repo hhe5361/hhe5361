@@ -39,20 +39,6 @@ I am a Computer Science student at Kyung Hee University and a backend developer 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-## Selected work
-
-### Real-time equipment monitoring system
-
-`Java / Spring` `C# / .NET / WPF` `C++` `Go` `WebRTC` `Docker`
-
-Maintained and improved an integrated system for real-time device monitoring, remote control, and recording playback. I investigated streaming failures, refined the stream-state model for recovery, and developed performance-focused PoCs for multi-view composition.
-
-### Graduation course recommendation platform
-
-`Kotlin / Spring` `MySQL` `AWS` `Docker`
-
-Led architecture and sprint planning for a six-person team. Built schedule-generation, degree-audit PDF parsing, and natural-language schedule filtering APIs; also designed AWS access boundaries and scheduled crawling workflows with EventBridge and AWS Batch.
-
 ## Team projects
 
 | Project | Focus | Stack |
@@ -63,10 +49,7 @@ Led architecture and sprint planning for a six-person team. Built schedule-gener
 
 ## Beyond code
 
-- Undergraduate researcher, Intelligent Cloud Networking System Lab (2024.11–2026.08)
-- Excellence Award, Kyung Hee University Track Project (2023)
-- Junior Award in both Embedded and App categories, Kyung Hee University Software Festival (2022)
-- Software education volunteer and C++ instructor
+- Undergraduate researcher, KHU Intelligent Cloud Networking System Lab (2024.11–2026.08)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hhe5361&show_icons=true&hide_border=true&theme=transparent" alt="Hyoeun's GitHub statistics" />
