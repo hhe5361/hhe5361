@@ -14,11 +14,6 @@
 
 I am a Computer Science student at Kyung Hee University and a backend developer who enjoys making real-time systems more reliable and efficient. I am especially interested in video streaming, distributed systems, and the operational details that turn a design into a dependable service.
 
-- Built and maintained a real-time semiconductor monitoring system in a closed-network environment.
-- Replaced a LibVLC-based player with an FFmpeg decoding pipeline, cutting CPU usage by **96.8%** in a 25-channel scenario.
-- Standardized Docker-based delivery workflows, reducing a new deployment guide from **16 pages to 2 pages**.
-- I value curiosity, persistence in debugging, and respectful collaboration.
-
 ## Tech stack
 
 **Languages & frameworks**
